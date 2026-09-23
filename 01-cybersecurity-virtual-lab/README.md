@@ -2,22 +2,22 @@
 
 ## Objective
 
-Build an isolated virtual environment for authorized cybersecurity learning and practical security testing.
+Build and maintain an isolated virtual environment for authorized cybersecurity learning, hands-on practice, and security testing.
 
 ## Lab Components
 
-- Virtualization platform
-- Linux virtual machine
-- Windows virtual machine
-- Isolated virtual network
+* Virtualization platform
+* Linux virtual machine
+* Windows virtual machine
+* Isolated virtual network
 
 ## Learning Goals
 
-- Understand virtualization
-- Configure a safe lab network
-- Practice basic Linux administration
-- Practice basic Windows administration
-- Understand basic security concepts
+* Understand virtualization and virtual environments
+* Configure and maintain a safe, isolated lab network
+* Develop basic Linux administration skills
+* Develop basic Windows administration skills
+* Build a strong understanding of fundamental security concepts
 
 ## Status
 
@@ -25,4 +25,4 @@ In Progress
 
 ## Safety
 
-All testing will be performed only in authorized and isolated lab environments.
+All security testing and experiments will be conducted only within authorized, controlled, and isolated lab environments.
