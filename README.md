@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity learning journey.
 
-I am building practical skills in cybersecurity with a focus on penetration testing and security assessment.
+I am developing practical and professional skills in cybersecurity, with a strong focus on penetration testing, security assessment, and hands-on security practices.
 
 ## Current Focus
 
@@ -24,8 +24,4 @@ I am building practical skills in cybersecurity with a focus on penetration test
 
 ## Learning Approach
 
-My focus is on hands-on labs, practical projects, security concepts, scripting, vulnerability analysis, and responsible security testing.
-
-## Note
-
-All security testing and experimentation is performed only in authorized labs and environments.
+My learning focuses on building strong fundamentals through hands-on labs, practical projects, security concepts, scripting, vulnerability analysis, and responsible security testing. I aim to continuously strengthen my technical skills by applying what I learn in practical environments.
